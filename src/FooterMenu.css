@@ -4,6 +4,7 @@
     background-color: black;
     height: 200px;
     color: white;
+    font-size: 13px;
     
 }
 .FooterMenu
@@ -14,6 +15,6 @@
 }
 .CopyRight
 {
-    font-size: 16px;
+    font-size: 13px;
     
 }
