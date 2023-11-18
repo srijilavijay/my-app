@@ -1,0 +1,19 @@
+.Footer1
+{
+    margin-top: 20px;
+    background-color: black;
+    height: 200px;
+    color: white;
+    
+}
+.FooterMenu
+{
+    margin: auto;
+    padding: 20px;
+    width:600px;
+}
+.CopyRight
+{
+    font-size: 16px;
+    
+}

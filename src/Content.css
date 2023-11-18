@@ -1,0 +1,35 @@
+.Content
+{
+    margin-left: 300px;
+}
+.Wrapper
+{
+    
+    display: grid;
+    grid-template-columns: 440px 440px;
+    grid-template-rows: 400px 400px 400px 400px 400px;
+    grid-row-gap: 20px;
+}
+.Gridcol
+{
+    background-color: whitesmoke;
+    border-radius: 2rem;
+    width: 300px;
+    padding: 25px;
+    box-shadow: 10px 16px 17px gray;
+}
+.ContenLink
+{
+    text-decoration: none;
+    color: black;
+}
+.img-responsive
+{
+    width:300px;
+    height:200px;
+    border-radius: 1rem;
+
+}
+.img-responsive:hover{
+    box-shadow: 10px 16px 17px gray;
+}

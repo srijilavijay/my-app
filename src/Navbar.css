@@ -1,0 +1,38 @@
+.Navbar
+{
+    background-color: black;
+    height: 80px;
+    padding-top: 10px;
+    margin: 0px;
+}
+nav
+{
+    padding-top: 20px;
+    margin: auto;
+    
+}
+ul
+{
+    display: flex;
+    float: right;
+}
+li
+{ 
+    list-style-type: none;
+    padding:10px 50px;
+    border-top: 2px solid grey ;
+   
+    border-radius: 1.5rem 1.5rem 0rem 0rem;
+}
+.Nav-link{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+li:hover{
+    background-color: rgb(44, 85, 71);
+}
+.Nav-link:hover{
+    color: yellow;
+    border-bottom: 2px solid yellow;
+}
